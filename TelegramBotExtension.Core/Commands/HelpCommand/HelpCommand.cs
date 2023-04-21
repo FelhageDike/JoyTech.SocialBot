@@ -44,7 +44,7 @@ namespace TelegramBotExtension.Core.Commands.HelpCommand
             _logger.LogInformation($"Command {command.Command} is executed with arguments {stringBuilder.ToString()}");
         }
 
-        private async Task<HelpArguments> ParseArguments(ITelegramBotClient botClient, Update update, UserCommand command)
+        private async Task<HelpArguments> ParseArguments(ITelegramBotClient botClient, Update update, Base.UserCommand command)
         {
             var parser = new FluentCommandLineParser<HelpArguments>();
             parser.Setup(arg => arg.IsChatId).As('c', "chatid").SetDefault(false);

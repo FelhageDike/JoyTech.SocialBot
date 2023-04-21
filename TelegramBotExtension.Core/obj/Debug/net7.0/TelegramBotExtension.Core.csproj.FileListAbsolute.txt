@@ -1,0 +1,17 @@
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/bin/Debug/net7.0/TelegramBotExtension.Core.deps.json
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/bin/Debug/net7.0/TelegramBotExtension.Core.runtimeconfig.json
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/bin/Debug/net7.0/TelegramBotExtension.Core.dll
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/bin/Debug/net7.0/TelegramBotExtension.Core.pdb
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/TelegramBotExtension.Core.csproj.AssemblyReference.cache
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/TelegramBotExtension.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/TelegramBotExtension.Core.AssemblyInfoInputs.cache
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/TelegramBotExtension.Core.AssemblyInfo.cs
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/TelegramBotExtension.Core.csproj.CoreCompileInputs.cache
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/TelegramBotExtension.Core.dll
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/refint/TelegramBotExtension.Core.dll
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/TelegramBotExtension.Core.pdb
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/TelegramBotExtension.Core.genruntimeconfig.cache
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/ref/TelegramBotExtension.Core.dll
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/bin/Debug/net7.0/TelegramBot.DAL.dll
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/bin/Debug/net7.0/TelegramBot.DAL.pdb
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBotExtension.Core/obj/Debug/net7.0/TelegramBotExtension.Core.csproj.CopyComplete

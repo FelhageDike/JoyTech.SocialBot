@@ -1,0 +1,14 @@
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/bin/Debug/net7.0/TelegramBot.DAL.deps.json
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/bin/Debug/net7.0/TelegramBot.DAL.runtimeconfig.json
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/bin/Debug/net7.0/TelegramBot.DAL.dll
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/bin/Debug/net7.0/TelegramBot.DAL.pdb
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/TelegramBot.DAL.csproj.AssemblyReference.cache
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/TelegramBot.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/TelegramBot.DAL.AssemblyInfoInputs.cache
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/TelegramBot.DAL.AssemblyInfo.cs
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/TelegramBot.DAL.csproj.CoreCompileInputs.cache
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/TelegramBot.DAL.dll
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/refint/TelegramBot.DAL.dll
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/TelegramBot.DAL.pdb
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/TelegramBot.DAL.genruntimeconfig.cache
+/Users/vladislavudincov/Downloads/Templates.NET-master/TelegramBot/TelegramBotExtension/TelegramBot.DAL/obj/Debug/net7.0/ref/TelegramBot.DAL.dll

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotExtension", "Tel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotExtension.Core", "TelegramBotExtension.Core\TelegramBotExtension.Core.csproj", "{8E9B3484-1C63-4D8B-B9C8-BE0DF76E5C2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBot.DAL", "TelegramBot.DAL\TelegramBot.DAL.csproj", "{FB61733C-DEDC-4073-9924-8A1F6E569363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{8E9B3484-1C63-4D8B-B9C8-BE0DF76E5C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E9B3484-1C63-4D8B-B9C8-BE0DF76E5C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E9B3484-1C63-4D8B-B9C8-BE0DF76E5C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB61733C-DEDC-4073-9924-8A1F6E569363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB61733C-DEDC-4073-9924-8A1F6E569363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB61733C-DEDC-4073-9924-8A1F6E569363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB61733C-DEDC-4073-9924-8A1F6E569363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
