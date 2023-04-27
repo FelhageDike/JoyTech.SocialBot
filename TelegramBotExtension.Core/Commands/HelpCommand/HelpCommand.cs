@@ -23,7 +23,7 @@ namespace TelegramBotExtension.Core.Commands.HelpCommand
             if (command.Arguments is null || command.Arguments.Length == 0)
             {
                 await botClient.SendTextMessageAsync(update.Message.Chat.Id, 
-                    "This is the help command.\n\r You can run this command with the arguments --chatid or --userid");
+                    "Это команда помощи.\n\r Вы можете использовать следуйщие команды. \n\r /getall \n\r /user \n\r /joke ");
             }
 
             var arguments = await ParseArguments(botClient, update, command);

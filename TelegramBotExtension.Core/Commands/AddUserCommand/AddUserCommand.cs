@@ -2,6 +2,7 @@ using System.Text;
 using System.Threading.Tasks.Dataflow;
 using Fclp;
 using Fclp.Internals.Extensions;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
 using Telegram.Bot;
 using Telegram.Bot.Types;
@@ -34,18 +35,27 @@ public class AddUserCommand :  ICommandHandler
 
             if (arguments.Add)
             {
+            
                 var userId = message.From.Id;
                 var userName = message.From.Username;
-                var user = new TelegramBot.DAL.Models.User
+                var user = await _context.Users.FirstOrDefaultAsync(x => x.TelegramId == userId.ToString(), cancellationToken: cancellationToken);
+                if (user is null)
                 {
-                    Rating = 100,
-                    TelegramId = userId.ToString(),
-                    UserName = userName,
-                    Id = Guid.NewGuid(),
-                };
-                await _context.Users.AddAsync(user);
-                await _context.SaveChangesAsync();
-                await botClient.SendTextMessageAsync(update.Message.Chat.Id, $"Я добавил {message.From.Username} в список.");
+                    user = new User
+                    {
+                        Rating = 100,
+                        TelegramId = userId.ToString(),
+                        UserName = userName,
+                        Id = Guid.NewGuid(),
+                    };
+                    await _context.Users.AddAsync(user, cancellationToken);
+                    await _context.SaveChangesAsync(cancellationToken);
+                    await botClient.SendTextMessageAsync(update.Message.Chat.Id, $"Я добавил {message.From.Username} в список.", cancellationToken: cancellationToken);
+                }
+                else
+                {
+                    await botClient.SendTextMessageAsync(update.Message.Chat.Id, $"Юзер, {message.From.Username} Уже добавлен.", cancellationToken: cancellationToken);
+                }
             }
             
             StringBuilder stringBuilder = new StringBuilder((int)command.Arguments?.Length);
